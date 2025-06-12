@@ -16,14 +16,12 @@ With an emphasis on security, inclusivity, simplicity, and caregiver integration
 
 ## 🛠️ Technologies Used
 
-- Python, Flask (Backend API)
 - Azure DevOps Boards (Agile Project Management)
 - TensorFlow, PyTorch (ML Models)
 - Yolo (Computer Vision)
 - Whisper, Google Speech API (Speech-to-Text)
 - BioBERT, Bioformer (NLP Diagnosis)
 - HuggingFace, Gradio (Deployment)
-- React Native (Mobile Frontend)
 - USDA Nutrition Database API
 
 ## 📦 Setup Instructions
@@ -51,16 +49,6 @@ With an emphasis on security, inclusivity, simplicity, and caregiver integration
    npm install
    npm start
           
-
-## 👥 Contributors
-
-- Agu Jennifer
-- Ifediorah Kenechukwu
-- Owulu Amarachukwu
-- Palakodeti S. Ravi
-- Sharma Vaibhav
-- Prof. Anasuya Bhima (Advisor)
-
 ## 📄 License
 
 This project is for academic purposes only.
